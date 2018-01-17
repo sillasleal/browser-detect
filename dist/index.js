@@ -1,0 +1,1 @@
+'use strict';Object.defineProperty(exports,'__esModule',{value:!0}),exports.BrowserDetect=void 0;var _BrowserDetect=require('./BrowserDetect'),_BrowserDetect2=_interopRequireDefault(_BrowserDetect);function _interopRequireDefault(a){return a&&a.__esModule?a:{default:a}}exports.BrowserDetect=_BrowserDetect2.default;
