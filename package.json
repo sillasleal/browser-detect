@@ -1,8 +1,8 @@
 {
   "name": "wtf-browser-detect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module that returns the browser data",
-  "main": "gulpfile.js",
+  "main": "./dist/index.js",
   "directories": {
     "test": "test"
   },
