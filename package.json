@@ -1,5 +1,5 @@
 {
-  "name": "ssl-browser-detect",
+  "name": "wtf-browser-detect",
   "version": "1.0.0",
   "description": "Module that returns the browser data",
   "main": "gulpfile.js",
